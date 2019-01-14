@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Vlad\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Vlad\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Clicker.1495225810.00" t="ExcludeRecursive" />
+    <e p="E:\unity projects\Clicker" t="IncludeFlat">
+      <e p="Clicker.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
